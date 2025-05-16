@@ -1,9 +1,9 @@
 // Doctors.jsx
 
 import CardDoctor from "./CardDoctor";
-import doctoraLopezFoto from "../assets/images/doctor01.jpg";
-import doctorRodriguezFoto from "../assets/images/doctor02.jpg";
-import doctoraMartinezFoto from "../assets/images/doctor03.jpg";
+import doctoraLopezFoto from "../assets/images/Doctor01.jpg";
+import doctorRodriguezFoto from "../assets/images/Doctor02.jpg";
+import doctoraMartinezFoto from "../assets/images/Doctor03.jpg";
 
 function Doctors() {
     const equipo = [
